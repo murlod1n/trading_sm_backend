@@ -1,6 +1,6 @@
-pandas==2.2.2
-numpy==2.0.1
-scikit-learn==1.5.1
-keras==3.4.1
 Flask==3.0.3
-tvDatafeed @ git+https://github.com/rongardF/tvdatafeed.git
+keras==3.4.1
+pandas==2.2.2
+tvdatafeed @ git+https://github.com/rongardF/tvdatafeed.git@e6f6aaa7de439ac6e454d9b26d2760ded8dc4923
+numpy==1.26.4
+scikit-learn==1.5.1
