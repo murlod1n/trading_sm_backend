@@ -1,10 +1,8 @@
-import time
 import math
 
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
-from tensorflow import keras
 from keras.layers import LSTM, Dense
 from keras.models import Sequential
 from tvDatafeed import TvDatafeed, Interval
